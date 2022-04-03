@@ -1,0 +1,10 @@
+C:\Users\Huang\Desktop\c#课程设计坦克大战\tankfight\bin\Debug\tankfight.exe.config
+C:\Users\Huang\Desktop\c#课程设计坦克大战\tankfight\bin\Debug\tankfight.exe
+C:\Users\Huang\Desktop\c#课程设计坦克大战\tankfight\bin\Debug\tankfight.pdb
+C:\Users\Huang\Desktop\c#课程设计坦克大战\tankfight\obj\Debug\tankfight.csproj.AssemblyReference.cache
+C:\Users\Huang\Desktop\c#课程设计坦克大战\tankfight\obj\Debug\tankfight.Properties.Resources.resources
+C:\Users\Huang\Desktop\c#课程设计坦克大战\tankfight\obj\Debug\tankfight.csproj.GenerateResource.cache
+C:\Users\Huang\Desktop\c#课程设计坦克大战\tankfight\obj\Debug\tankfight.csproj.CoreCompileInputs.cache
+C:\Users\Huang\Desktop\c#课程设计坦克大战\tankfight\obj\Debug\tankfight.exe
+C:\Users\Huang\Desktop\c#课程设计坦克大战\tankfight\obj\Debug\tankfight.pdb
+C:\Users\Huang\Desktop\c#课程设计坦克大战\tankfight\obj\Debug\tankfight.Form1.resources
